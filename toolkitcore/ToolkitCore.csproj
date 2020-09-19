@@ -67,6 +67,10 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <TargetPath>..\About\About.xml</TargetPath>
     </ContentWithTargetPath>
+    <ContentWithTargetPath Include="About\Preview.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <TargetPath>..\About\Preview.png</TargetPath>
+    </ContentWithTargetPath>
     <ContentWithTargetPath Include="Defs\Commands\Commands.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <TargetPath>..\Defs\Commands\Commands.xml</TargetPath>
